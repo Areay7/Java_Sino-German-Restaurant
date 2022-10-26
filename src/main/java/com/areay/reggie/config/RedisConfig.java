@@ -1,4 +1,4 @@
-package com.areay.config;
+package com.areay.reggie.config;
 
 import org.springframework.cache.annotation.CachingConfigurerSupport;
 import org.springframework.context.annotation.Bean;
